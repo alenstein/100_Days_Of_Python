@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Day 4 for 100 days of code _ Randomisation and Lists
+# Day 5 for 100 days of code _ Randomisation and Lists
 
 # exercise_1 - Average height
 """
