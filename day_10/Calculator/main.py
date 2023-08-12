@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # Calculator project for day 10 
+import art
 
 def add(a, b):
     return a + b
@@ -30,7 +31,7 @@ operations = {
 should_continue = True
 
 while should_continue:
-
+    print(art.logo)
     num1 = int(input("What's the first number?: "))
     num2 = int(input("What's the second number?: "))
 
