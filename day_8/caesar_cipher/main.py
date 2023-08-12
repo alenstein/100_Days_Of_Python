@@ -44,12 +44,13 @@ def reload_game(char='n'):
 
 #TODO-2: Call the caesar() function, passing over the 'text', 'shift' and 'direction' values.
 while ans:
+    print("\033c", end="")
     print(art.logo)
 
     # input data
     direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
     text = input("Type your message:\n").lower()
-    shift = int(input("Type the shift number:\n"))
+    shift = int(input("Type the shift number:\n")) % len(alphabet)
     
     # modulating the shift number so that its not out of range.
     shift = shift % (len(alphabet) - 1)
