@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+
+# data for personalities to be compared
 data = [
     {
         'name': 'Instagram',
