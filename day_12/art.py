@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" Custom CLI for number guessing game project."""
 
 logo = """
      _______               ___.                    ________                            .__                   ________                       
