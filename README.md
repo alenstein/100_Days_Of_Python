@@ -23,3 +23,10 @@ I welcome any feedback, suggestions, or questions you may have about the code or
 Let's embark on this exciting journey together and become skilled backend software engineers with Python and Django!
 
 Happy coding!
+
+|Day|Activities|Project|
+|---|----------|-------|
+|1| Printing, Commenting, Variables, String manipulation|Band-name-generator|
+|2|Data types, numbers, Operations, type conversions, f-strings|Tip calculator |
+|3| Conditionals, logical operators| Treasure Island|
+|4|Randomisation, Lists, Dictionaries| Rock-paper-scissors|
