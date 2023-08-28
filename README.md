@@ -49,6 +49,7 @@ Happy coding!
 | 19    | More turtle graphics, event listeners, State and multiple instances | Etch-A-Sketch[www.github.com/alenstein/100_Days_Of_Python/day_19/]           |
 | 20    | Turtle module, OOP, animations                                      | Snake_Game_clone_part-1[www.github.com/alenstein/100_Days_Of_Python/day_20/] |
 | 21    | Inheritance, slicing and  more turtle graphics                      | Snake_Game_clone_part-2[www.github.com/alenstein/100_Days_Of_Python/day_21/] |
+| 22    | OOP and more turtle graphics                                        | Pong-game-clone[www.github.com/alenstein/100_Days_Of_Python/day_22/]         |
 
 
 
